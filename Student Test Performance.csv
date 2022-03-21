@@ -1,0 +1,11 @@
+﻿ID,Name,Phone,Sex and age,Test number,Term 1,Term 2,Term 3
+1,Mike,134,M_12,Test 1,76,84,87
+2,Linda,270,F_13,Test 1,88,90,73
+3,Sam,210,M_11,Test 1,78,74,80
+4,Esther,617,F_12,Test 1,68,75,74
+5,Mary,114,F_14,Test 1,65,67,64
+1,Mike,134,M_12,Test 2,85,80,90
+2,Linda,270,F_13,Test 2,87,82,94
+3,Sam,210,M_11,Test 2,80,87,80
+4,Esther,617,F_12,Test 2,70,75,78
+5,Mary,114,F_14,Test 2,68,70,63
